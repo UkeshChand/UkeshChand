@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/chandukesh" target="blank"><img src="https://img.shields.io/twitter/follow/chandukesh?logo=twitter&style=for-the-badge" alt="chandukesh" /></a> </p>
 
-- 🔭 I’m currently working on **Feed Me**
+- 🔭 I’m currently working on **My portfolio**
 
 - 🌱 I’m currently learning **React js**
 
